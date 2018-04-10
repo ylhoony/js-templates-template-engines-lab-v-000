@@ -1,4 +1,4 @@
-function createPost() {
+function createPost() { 
   // get submitted value
   const title = document.getElementById('postTitle').value;
   const author = document.getElementById('postAuthor').value;
